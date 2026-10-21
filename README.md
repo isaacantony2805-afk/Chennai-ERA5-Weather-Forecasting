@@ -77,7 +77,9 @@ evaluated models on the 2025 test period.
 
 ## Author
 
-Climate Data Science Project
+*Climate Data Scientist | Weather Forecasting & Machine Learning*
+
+GitHub: [isaacantony2805-afk](https://github.com/isaacantony2805-afk)
 
 ## Visual Results
 
