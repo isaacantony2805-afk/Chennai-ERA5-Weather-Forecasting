@@ -78,3 +78,17 @@ evaluated models on the 2025 test period.
 ## Author
 
 Climate Data Science Project
+
+## Visual Results
+
+### 1. Model Comparison
+![Model Comparison](model_comparison.png)
+
+### 2. Actual vs Predicted Temperature
+![Actual vs Predicted Temperature](actual_vs_lstm_7days.png)
+
+### 3. Residual Distribution
+![Residual Distribution](residual_distribution.png)
+
+### 4. Weather Feature Correlation
+![Weather Feature Correlation](corr_matrix.png)
